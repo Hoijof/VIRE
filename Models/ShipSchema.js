@@ -1,0 +1,5 @@
+function ShipSchema () {
+    this.parts = {
+
+    }
+}

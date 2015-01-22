@@ -20,7 +20,7 @@ function Ship() {
     };
 
     this.components = {
-        installedComponents: [] // List of installed components (SHIELDS, WEAPONS, COMMUNICATION SYSTEMS, HYPERJUMP SYSTEMS, ENGINES, RADARS, FUEL TANKS)
+        installedComponents: [] // List of installed Component (SHIELDS, WEAPONS, COMMUNICATION SYSTEMS, HYPERJUMP SYSTEMS, ENGINES, RADARS, FUEL TANKS)
     };
 
     this.crew = {
